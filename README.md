@@ -63,12 +63,12 @@ Execute the script line by line to generate the plot. The chart will be displaye
 ## Interpretation of the Visualization
 The plot provides a comparative view of voting percentages for NPP and NDC across two election years. Key observations include:
 
-Ashanti Region: Even though, NPP pecentage decreases in 2024, it still favors NPP with high percentages, confirming its reputation as a stronghold.
-Volta Region: A stronghold for NDC, maintaining dominance across election cycles.
-Greater Accra: Often serves as a bellwether region with closely contested percentages.
-Northern Region: Displays fluctuating trends, reflecting increasing competitiveness.
-National Average: Offers an overall performance summary for both parties across all regions.
-The percentage for the NPP only increased in two regions.
+- Ashanti Region: Even though, NPP pecentage decreases in 2024, it still favors NPP with high percentages, confirming its reputation as a stronghold.
+- Volta Region: A stronghold for NDC, maintaining dominance across election cycles.
+- Greater Accra: Often serves as a bellwether region with closely contested percentages.
+- Northern Region: Displays fluctuating trends, reflecting increasing competitiveness.
+- National Average: Offers an overall performance summary for both parties across all regions.
+- The percentage for the NPP only increased in two regions.
 
 ## Annotation Details
 An annotation is included in the visualization, explaining the context of the data: "The 2024 data excludes results from 9 constituencies that were unavailable at the time of reporting"
